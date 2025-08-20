@@ -27,6 +27,8 @@ To generate a commit message, you can run the application using the following co
 node src/index.js
 ```
 
+You need to open the VSCode extension in a separate window and with the server up and running you are able to call the extension and generate messages using the git diff automatically!
+
 You can customize the input parameters to tailor the generated commit messages to your needs.
 
 ## Contributing
